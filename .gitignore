@@ -1,0 +1,4 @@
+.DS_stroe
+.venv
+.idea
+__pycache__
